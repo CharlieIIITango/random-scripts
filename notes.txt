@@ -1,0 +1,6 @@
+To-do:
+- Learn more Python
+- Try out Flask
+- Stop forgetting semicolons (wait... wrong language)
+
+Nothing important in here.
